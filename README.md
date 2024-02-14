@@ -2,6 +2,8 @@
 
 This is a simple employee management application built using React. It allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data.
 
+### Web Link: [Live Website](https://employee-hub-196.netlify.app/)
+
 ## Features
 
 - Add new employees with their name, email, address, and phone number.
