@@ -7,7 +7,7 @@ const AddForm = () => {
     const {addEmployee} = useContext(EmployeeContext);
 
     const [newEmployee, setNewEmployee] = useState({
-        name:"", email:"", phone:"", address:""
+        name:"", email:"", address:"", phone:""
     });
 
     const onInputChange = (e) => {
