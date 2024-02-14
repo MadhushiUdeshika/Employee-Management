@@ -18,7 +18,7 @@ const AddForm = () => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        addEmployee(name, email, phone, address);
+        addEmployee(name, email, address, phone);
     }
 
     return (
