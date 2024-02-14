@@ -162,13 +162,19 @@ table.table .avatar {
 	border-radius: 2px;
 	box-shadow: none;
 	border-color: #dddddd;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 .modal textarea.form-control {
 	resize: vertical;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }
 .modal .btn {
 	border-radius: 2px;
 	min-width: 100px;
+	margin-bottom: 10px;
+	margin-top: 10px;
 }	
 .modal form label {
 	font-weight: normal;
