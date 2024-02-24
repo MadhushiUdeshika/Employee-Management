@@ -1,6 +1,6 @@
 # Employee Management Application
 
-This is a simple employee management application built using React. It allows users to perform CRUD (Create, Read, Update, Delete) operations on employee data.
+A comprehensive platform enabling efficient management of employee data through intuitive user interfaces and streamlined functionalities.
 
 ### Web Link: [Live Website](https://employee-hub-196.netlify.app/)
 
